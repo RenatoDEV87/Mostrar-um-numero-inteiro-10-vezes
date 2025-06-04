@@ -1,6 +1,6 @@
 # Escreva um algoritmo para ler um número inteiro e escrevê-lo na tela 10 vezes
 
-Exercício 10: Exibir Número Inteiro 10 Vezes
+# Exercício 10: Exibir Número Inteiro 10 Vezes
 
 ---
 
